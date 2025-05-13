@@ -10,7 +10,7 @@ Feel free to go through each text file to examine each running config for each d
 
 I also added a screenshot from PC1 in the network to show its connectivity.
 
-Not screenshotted is the config to the WLC. This is because the GUI for the WLC is very limited and there really are only a few configurations that can be mad due to the limitations of packet tracer.
+Not screenshotted is the config to the WLC. This is because the GUI for the WLC is very limited and there really are only a few configurations that can be made due to the limitations of packet tracer.
 
 It is shown however that the wireless AP are working which you can see in the CCNA Lab JPEG file
 
